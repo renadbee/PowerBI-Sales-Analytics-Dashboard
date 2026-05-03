@@ -39,7 +39,7 @@ Renad — Data Analyst | Power BI Developer
 ## 📸 Dashboard Screenshots
 
 ### 🟦 Page 1 – Overview Dashboard
-![Page 1](LINK)
+![Page 1](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%201.png?raw=true)
 
 ### 🟦 Page 2 – Category Analysis
 ![Page 2](LINK)
