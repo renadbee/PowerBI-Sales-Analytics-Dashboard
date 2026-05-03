@@ -51,5 +51,5 @@ Renad — Data Analyst | Power BI Developer
 ![Page 4](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%204.png?raw=true) 
 
 ### 🟦 Page 5 – Time Analysis
-![Page 5](LINK)
+![Page 5](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%205.png?raw=true) 
 
