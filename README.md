@@ -34,22 +34,22 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ---
 
-### ** Created by**
-Renad — Data Analyst | Power BI Developer
-## 📸 Dashboard Screenshots
+### Created by:
+Renad Albeyali— Data Analyst | Power BI Developer
+##  Dashboard Screenshots
 
-### 🟦 Page 1 – Overview Dashboard
+ ### Page 1 – Overview Dashboard
 ![Page 1](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%201.png?raw=true)
 
-### 🟦 Page 2 – Category Analysis
+### Page 2 – Category Analysis
 ![Page 2](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%202.png?raw=true) 
 
-### 🟦 Page 3 – Regional Analysis
+### Page 3 – Regional Analysis
 ![Page 3](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%203.png?raw=true) 
 
-### 🟦 Page 4 – Customer Segment Analysis
+### Page 4 – Customer Segment Analysis
 ![Page 4](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%204.png?raw=true) 
 
-### 🟦 Page 5 – Time Analysis
+### Page 5 – Time Analysis
 ![Page 5](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%205.png?raw=true) 
 
