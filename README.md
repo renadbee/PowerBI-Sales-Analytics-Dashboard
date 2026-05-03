@@ -36,4 +36,20 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ### ** Created by**
 Renad — Data Analyst | Power BI Developer
+## 📸 Dashboard Screenshots
+
+### 🟦 Page 1 – Overview Dashboard
+![Page 1](LINK)
+
+### 🟦 Page 2 – Category Analysis
+![Page 2](LINK)
+
+### 🟦 Page 3 – Regional Analysis
+![Page 3](LINK)
+
+### 🟦 Page 4 – Customer Segment Analysis
+![Page 4](LINK)
+
+### 🟦 Page 5 – Time Analysis
+![Page 5](LINK)
 
