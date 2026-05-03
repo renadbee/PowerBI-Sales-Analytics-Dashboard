@@ -42,7 +42,7 @@ Renad — Data Analyst | Power BI Developer
 ![Page 1](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%201.png?raw=true)
 
 ### 🟦 Page 2 – Category Analysis
-![Page 2](LINK)
+![Page 2](https://github.com/renadbee/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%20PAGE%202.png?raw=true) 
 
 ### 🟦 Page 3 – Regional Analysis
 ![Page 3](LINK)
