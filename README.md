@@ -5,7 +5,7 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ---
 
-### ** Dashboard Pages**
+### Dashboard Pages
 1. **Overview Dashboard** – KPIs + Monthly Sales Trend  
 2. **Category Analysis** – Sales & Profit by Category + Sub‑Category  
 3. **Regional Analysis** – Sales & Profit by Region + State  
@@ -24,12 +24,12 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ---
 
-### **Screenshots**
+### Screenshots
 (Add the images of your pages here)
 
 ---
 
-### ** File Included**
+###  File Included
 - `Sales_Analytics_Dashboard.pbix`
 
 ---
