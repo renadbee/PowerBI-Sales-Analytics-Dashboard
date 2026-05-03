@@ -37,7 +37,3 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 ### ** Created by**
 Renad — Data Analyst | Power BI Developer
 
----
-
-# ⭐ جاهزة أرتّب لك الصور اللي ترفعينها؟  
-أو تبين أكتب لك نسخة ثانية من الـ README بشكل أقوى؟
