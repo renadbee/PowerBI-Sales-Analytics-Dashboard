@@ -1,11 +1,11 @@
-## **📊 Power BI Sales Analytics Dashboard**
+## **Power BI Sales Analytics Dashboard**
 
 This project is a fully interactive Power BI dashboard designed to analyze sales, profit, customer segments, product performance, and time trends.  
 It includes **5 professionally designed pages** with unified styling, DAX measures, and optimized data modeling.
 
 ---
 
-### **📁 Dashboard Pages**
+### ** Dashboard Pages**
 1. **Overview Dashboard** – KPIs + Monthly Sales Trend  
 2. **Category Analysis** – Sales & Profit by Category + Sub‑Category  
 3. **Regional Analysis** – Sales & Profit by Region + State  
@@ -14,7 +14,7 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ---
 
-### **🛠️ Tools & Skills Used**
+### **Tools & Skills Used**
 - Power BI  
 - DAX  
 - Data Modeling  
@@ -24,17 +24,17 @@ It includes **5 professionally designed pages** with unified styling, DAX measur
 
 ---
 
-### **📸 Screenshots**
+### **Screenshots**
 (Add the images of your pages here)
 
 ---
 
-### **📂 File Included**
+### ** File Included**
 - `Sales_Analytics_Dashboard.pbix`
 
 ---
 
-### **👤 Created by**
+### ** Created by**
 Renad — Data Analyst | Power BI Developer
 
 ---
